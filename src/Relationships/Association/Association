@@ -1,0 +1,6 @@
+Association-
+Its a 'has-a' relationship.
+Here a teacher can teach multiple subjects and a subject can have multiple teachers.
+These entities are associated but can exist independently.Classes do not include each others objects.
+Its a broader term which includes Aggregation and Composition.
+

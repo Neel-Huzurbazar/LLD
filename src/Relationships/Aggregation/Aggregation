@@ -1,0 +1,5 @@
+Aggregation-
+Its also a has-a relationship but represent a weaker relationship of composition.
+Its a specialized form of association where one class contains reference to another.
+The contained object can exist independently.
+Here Department has a reference to employee but employee can exist independently.

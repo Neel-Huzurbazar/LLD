@@ -1,0 +1,4 @@
+Composition-
+Composition is a stronger form of aggregation where the contained object is tightly bound to the containing object.
+If the container is destroyed, contained object is also destroyed.
+Here, Library includes Book. Book can not exist independently without Library.
